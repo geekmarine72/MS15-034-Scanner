@@ -2,6 +2,9 @@ MS15-034-Scanner
 ====================
 
 [![Build status](https://ci.appveyor.com/api/projects/status/wyo7192dklvlwc72/branch/master?svg=true)](https://ci.appveyor.com/project/geekmarine72/ms15-034-scanner/branch/master)
+[![Coverity Scan](https://scan.coverity.com/projects/6046/badge.svg)](https://scan.coverity.com/projects/geekmarine72-ms15-034-scanner)
+
+
 
 MS15-034-Scanner is a windows command line utility which scans one or more URLs for the [MS15-034] (https://technet.microsoft.com/en-us/library/security/ms15-034.aspx) vulnerability in a non-destructive manner.
 
